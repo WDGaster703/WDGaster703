@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 <div style="display: flex;">
   <img
     style="height: 170px; object-fit: cover;"
-    src="https://github-readme-stats.vercel.app/api?username=pspdada&theme=tokyonight&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=W.D.Gaster&theme=tokyonight&show_icons=true"
   />
   <img
     style="height: 170px; object-fit: cover;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pspdada&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=W.D.Gaster&layout=compact&theme=tokyonight"
   />
 </div>
 
